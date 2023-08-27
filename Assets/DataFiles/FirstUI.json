@@ -1,0 +1,26 @@
+{
+  "Response": [
+    {
+      "name": "Instance",
+      "position": ["0","0","0"],
+      "rotation": ["0","0","0"],
+      "scale": ["1","1","1"],
+      "properties": {
+          "SpriteRenderer": {
+            "Sprite": "circle",
+            "Color": "Red"
+          },
+          "BoxCollider": {
+            "IsTrigger": "true"
+          }
+        }
+    },
+    {
+      "name": "any"
+    }
+,
+    {
+	"name" : "Two"
+}
+  ]
+}
